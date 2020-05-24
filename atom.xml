@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uggka.github.io/36gate</id>
     <title>三十六</title>
-    <updated>2020-05-23T17:21:14.048Z</updated>
+    <updated>2020-05-24T01:30:09.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://uggka.github.io/36gate"/>
     <link rel="self" href="https://uggka.github.io/36gate/atom.xml"/>
@@ -11,9 +11,33 @@
     <icon>https://uggka.github.io/36gate/favicon.ico</icon>
     <rights>All rights reserved 2020, 三十六</rights>
     <entry>
+        <title type="html"><![CDATA[记一次莫名其妙的侵权投诉申诉过程]]></title>
+        <id>https://uggka.github.io/36gate/qinquan-amazon/</id>
+        <link href="https://uggka.github.io/36gate/qinquan-amazon/">
+        </link>
+        <updated>2020-05-23T17:09:58.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="前言">前言</h2>
+<p>做亚马逊这么多年，大大小小的投诉接到不计其数，有赢的也有输的。一般侵权都会告诉我们是哪个ASIN侵权以及有投诉编号，但是今天收到的投诉之所以说莫名其妙是因为居然没有告诉我是哪个ASIN侵权和侵权案例编号！就一个投诉人的地址和电话，让我去联系，然后就没有了，就没有了！！！！！甚至连邮箱都不舍得给一个。如下图：</p>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="前言">前言</h2>
+<p>做亚马逊这么多年，大大小小的投诉接到不计其数，有赢的也有输的。一般侵权都会告诉我们是哪个ASIN侵权以及有投诉编号，但是今天收到的投诉之所以说莫名其妙是因为居然没有告诉我是哪个ASIN侵权和侵权案例编号！就一个投诉人的地址和电话，让我去联系，然后就没有了，就没有了！！！！！甚至连邮箱都不舍得给一个。如下图：</p>
+<!--more-->
+<figure data-type="image" tabindex="1"><img src="https://cdn.emmhome.com/2020/05/23/8c6fd460aa2d9.png#vwid=657&amp;vhei=767" alt="侵权通知" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊遇到分类审核怎么办？]]></title>
+        <id>https://uggka.github.io/36gate/fenleishenhe-amazon/</id>
+        <link href="https://uggka.github.io/36gate/fenleishenhe-amazon/">
+        </link>
+        <updated>2020-05-23T17:09:26.000Z</updated>
+        <content type="html"><![CDATA[<p>亚马逊遇到分类审核怎么办？</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[国外疫情如此严重，亚马逊还能不能做？]]></title>
-        <id>https://uggka.github.io/36gate/国外疫情如此严重，亚马逊还能不能做？/</id>
-        <link href="https://uggka.github.io/36gate/国外疫情如此严重，亚马逊还能不能做？/">
+        <id>https://uggka.github.io/36gate/yiqing-amazon/</id>
+        <link href="https://uggka.github.io/36gate/yiqing-amazon/">
         </link>
         <updated>2020-04-04T17:05:21.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cdn.emmhome.com/2020/04/16/f5f8ccf1f5bc4.png" alt="疫情图" loading="lazy"></figure>
@@ -41,8 +65,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[增速营销转化，独立站篇]]></title>
-        <id>https://uggka.github.io/36gate/增速营销转化，独立站篇/</id>
-        <link href="https://uggka.github.io/36gate/增速营销转化，独立站篇/">
+        <id>https://uggka.github.io/36gate/yingxiao-dulizhan/</id>
+        <link href="https://uggka.github.io/36gate/yingxiao-dulizhan/">
         </link>
         <updated>2019-12-22T17:02:05.000Z</updated>
         <content type="html"><![CDATA[<p>经过昨天的分享之后，反响还不错，有些同学能够获得一些启发，也有一些同学给我们提了一些很好的建议，在这里感谢大家的支持。</p>
@@ -89,8 +113,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[增速营销转化，亚马逊篇]]></title>
-        <id>https://uggka.github.io/36gate/增速营销转化，亚马逊篇/</id>
-        <link href="https://uggka.github.io/36gate/增速营销转化，亚马逊篇/">
+        <id>https://uggka.github.io/36gate/yingxiao-amazon/</id>
+        <link href="https://uggka.github.io/36gate/yingxiao-amazon/">
         </link>
         <updated>2019-12-20T16:34:45.000Z</updated>
         <content type="html"><![CDATA[<p>忙忙碌碌了大半个月，今天才得闲，选了一个很多同学都在问的问题，亚马逊除了美国站，还有什么站点值得做？<br>
