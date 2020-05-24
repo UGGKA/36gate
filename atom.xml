@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uggka.github.io/36gate</id>
     <title>三十六</title>
-    <updated>2020-05-24T02:21:28.646Z</updated>
+    <updated>2020-05-24T02:27:31.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://uggka.github.io/36gate"/>
     <link rel="self" href="https://uggka.github.io/36gate/atom.xml"/>
@@ -16,11 +16,9 @@
         <link href="https://uggka.github.io/36gate/qinquan-amazon/">
         </link>
         <updated>2020-05-23T17:09:58.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="前言">前言</h2>
-<p>做亚马逊这么多年，大大小小的投诉接到不计其数，有赢的也有输的。一般侵权都会告诉我们是哪个ASIN侵权以及有投诉编号，但是今天收到的投诉之所以说莫名其妙是因为居然没有告诉我是哪个ASIN侵权和侵权案例编号！就一个投诉人的地址和电话，让我去联系，然后就没有了，就没有了！！！！！甚至连邮箱都不舍得给一个。如下图：</p>
+        <summary type="html"><![CDATA[<p>做亚马逊这么多年，大大小小的投诉接到不计其数，有赢的也有输的。一般侵权都会告诉我们是哪个ASIN侵权以及有投诉编号，但是今天收到的投诉之所以说莫名其妙是因为居然没有告诉我是哪个ASIN侵权和侵权案例编号！就一个投诉人的地址和电话，让我去联系，然后就没有了，就没有了！！！！！</p>
 ]]></summary>
-        <content type="html"><![CDATA[<h2 id="前言">前言</h2>
-<p>做亚马逊这么多年，大大小小的投诉接到不计其数，有赢的也有输的。一般侵权都会告诉我们是哪个ASIN侵权以及有投诉编号，但是今天收到的投诉之所以说莫名其妙是因为居然没有告诉我是哪个ASIN侵权和侵权案例编号！就一个投诉人的地址和电话，让我去联系，然后就没有了，就没有了！！！！！甚至连邮箱都不舍得给一个。如下图：</p>
+        <content type="html"><![CDATA[<p>做亚马逊这么多年，大大小小的投诉接到不计其数，有赢的也有输的。一般侵权都会告诉我们是哪个ASIN侵权以及有投诉编号，但是今天收到的投诉之所以说莫名其妙是因为居然没有告诉我是哪个ASIN侵权和侵权案例编号！就一个投诉人的地址和电话，让我去联系，然后就没有了，就没有了！！！！！</p>
 <!--more-->
 <figure data-type="image" tabindex="1"><img src="https://cdn.emmhome.com/2020/05/23/8c6fd460aa2d9.png#vwid=657&amp;vhei=767" alt="侵权通知" loading="lazy"></figure>
 ]]></content>
@@ -36,12 +34,16 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[国外疫情如此严重，亚马逊还能不能做？]]></title>
-        <id>https://uggka.github.io/36gate/yiqing-amazon/</id>
-        <link href="https://uggka.github.io/36gate/yiqing-amazon/">
+        <id>https://uggka.github.io/36gate/covid-19-amazon/</id>
+        <link href="https://uggka.github.io/36gate/covid-19-amazon/">
         </link>
         <updated>2020-04-04T17:05:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>![疫情图][1]</p>
+<p>去年十二月底的时候还在做着2020年的业绩规划，即使1月2月国内的疫情这么严重我都仅仅只是对工厂是否能及时的出货有些担忧，从未想过亚马逊会拒收货件，优先配送必需品，甚至是下架非必需品的Listing。</p>
+]]></summary>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cdn.emmhome.com/2020/04/16/f5f8ccf1f5bc4.png" alt="疫情图" loading="lazy"></figure>
 <p>去年十二月底的时候还在做着2020年的业绩规划，即使1月2月国内的疫情这么严重我都仅仅只是对工厂是否能及时的出货有些担忧，从未想过亚马逊会拒收货件，优先配送必需品，甚至是下架非必需品的Listing。</p>
+<!-- more -->
 <p>从美国仅仅只有几百列的时候我就开始关注，那时候我们还在说美国和国内情形不一样，美国人住得都比较分散，不会有特别多的感染。谁能想到他能一天增加几千，一万，两万。真真是没有比外贸更惨的行业了。打完国内的上半场，又要打国外的下半场。</p>
 <p>最近看到很多友商说自己准备一三五上班，二四六放假了。我把这些公司都列了一下，发现他们有一个共同点，大公司！！！像我这种20人以内的公司来说，也会有些压力但是不至于很大。我们通常会自我安慰，还好疫情没有发生在旺季，不然岂不是全年惨淡？</p>
 <p>我之前发过一条简短的朋友圈，说现在是开店的最好时候。为什么我会这么说呢！</p>
