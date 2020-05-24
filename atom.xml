@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uggka.github.io/36gate</id>
     <title>三十六</title>
-    <updated>2020-05-24T05:43:01.948Z</updated>
+    <updated>2020-05-24T05:47:26.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://uggka.github.io/36gate"/>
     <link rel="self" href="https://uggka.github.io/36gate/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>温故而知新，可以为师矣</subtitle>
     <logo>https://uggka.github.io/36gate/images/avatar.png</logo>
     <icon>https://uggka.github.io/36gate/favicon.ico</icon>
     <rights>All rights reserved 2020, 三十六</rights>
